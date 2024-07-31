@@ -38,16 +38,16 @@ body {
     margin: 125px auto 0 auto;
   }
   
-  .left, .right {
+  .left, .hero-right-side {
     flex: 1;
     text-align: center;
   }
   
-  .right {
+  .hero-right-side {
     padding: 0 25px;
   }
   
-  .special1 {
+  .hero-start {
     font-size: 27px;
     text-transform: uppercase;
     color: #ffffff;
@@ -59,7 +59,7 @@ body {
     margin-bottom: 200px;
   }
   
-  p.highlight {
+  p.hero-book {
     font-size: 55px;
     font-weight: bold;
   }
